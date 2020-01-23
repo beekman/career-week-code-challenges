@@ -1,0 +1,19 @@
+{
+  "name": "career-code-challenges",
+  "version": "1.0.0",
+  "description": "",
+  "main": "date-adder.js",
+  "scripts": {
+    "test": "jest --verbose --coverage",
+    "test:watch": "npm run test -- --watch",
+    "lint": "eslint '**/*.js'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "24.9.1",
+    "eslint": "6.8.0",
+    "jest": "25.1.0"
+  }
+}
